@@ -58,7 +58,7 @@ There will be a api for user wise posts lists. user wise posts will come in to t
 
 ## To run  this project follow these steps 
 #1. npm install --> This will install all dependencies.
-#2. nmp start   --> This will run server.
+#2. npm start   --> This will run server.
 
 
 
