@@ -54,3 +54,11 @@ User wise post list API
 ============
 
 There will be a api for user wise posts lists. user wise posts will come in to the api.
+
+
+## To run  this project follow these steps 
+#1. npm install --> This will install all dependencies.
+#2. nmp start   --> This will run server.
+
+
+
